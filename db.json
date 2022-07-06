@@ -1,0 +1,60 @@
+{
+  "add-country": [
+    {
+      "id": 1,
+      "country": "India"
+    },
+    {
+      "country": "china",
+      "id": 2
+    },
+    {
+      "country": "usa",
+      "id": 3
+    },
+    {
+      "country": "Russia",
+      "id": 4
+    },
+    {
+      "country": "england",
+      "id": 5
+    },
+    {
+      "country": "australia",
+      "id": 6
+    }
+  ],
+  "add-city": [
+    {
+      "city": "mumbai",
+      "population": "10000000",
+      "country": "India",
+      "id": 2
+    },
+    {
+      "city": "london",
+      "population": "800000",
+      "country": "england",
+      "id": 3
+    },
+    {
+      "city": "new york",
+      "population": "1000",
+      "country": "usa",
+      "id": 4
+    },
+    {
+      "city": "berlin",
+      "population": "129000",
+      "country": "Russia",
+      "id": 5
+    },
+    {
+      "city": "sydney",
+      "population": "123500",
+      "country": "australia",
+      "id": 6
+    }
+  ]
+}
